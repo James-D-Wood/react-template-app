@@ -1,3 +1,9 @@
+## Run Dev Server
+
+```bash
+npm run start
+```
+
 ## Steps to Recreate
 
 ### React
@@ -47,4 +53,10 @@ npm init @eslint/config
 ✔ Does your project use TypeScript? · No / Yes
 ✔ Where does your code run? · browser
 ✔ What format do you want your config file to be in? · JSON
+```
+
+### Storybook
+
+```bash
+npx storybook init
 ```
